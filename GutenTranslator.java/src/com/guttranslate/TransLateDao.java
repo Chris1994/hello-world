@@ -7,7 +7,7 @@ class TransLateDao {
 
 	private ArrayList<String> language = new ArrayList<>();
 	private int counter = 0;
-	private String filePath = "C:\\Users\\Christopher\\Desktop\\Desktop Stuff\\Java Apps\\";
+	private String filePath = "--insert file path here-- to include text files for german and english";
 
 	TransLateDao(String file) {
 		// The name of the file to open.
