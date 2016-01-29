@@ -1,1 +1,1 @@
-I am a Java Developer and enjoy programming and solving problems.
+I am a new Software developer that enjoys writing software and solving problem.
