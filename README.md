@@ -1,1 +1,1 @@
-I am a new Software developer that enjoys writing software and solving problem.
+This is a repo where I upload examples of what I have learned in programming
